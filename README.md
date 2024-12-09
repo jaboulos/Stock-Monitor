@@ -2,10 +2,21 @@
 
 ## How to Set Up and Run the Application
 
+- Ensure Node.js is installed. If not, download and install it from the Node.js official website. https://nodejs.org/en. Version 18.20.4 recommended.
+- Install dependencies
+  ```bash
+  npm install
+  ```
 - To start the app, run the command:
   ```bash
   npm run dev
   ```
+- View the app in the browser on:
+
+  ```bash
+  http://localhost:5173/
+  ```
+
 - To run tests, use the command:
   ```bash
   npm test
